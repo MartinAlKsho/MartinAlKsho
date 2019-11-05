@@ -1,0 +1,342 @@
+C:\Users\Alyas\source\repos\MAPatients\MAPatients\bin\Debug\netcoreapp2.2\MAPatients.deps.json
+C:\Users\Alyas\source\repos\MAPatients\MAPatients\bin\Debug\netcoreapp2.2\MAPatients.runtimeconfig.json
+C:\Users\Alyas\source\repos\MAPatients\MAPatients\bin\Debug\netcoreapp2.2\MAPatients.runtimeconfig.dev.json
+C:\Users\Alyas\source\repos\MAPatients\MAPatients\bin\Debug\netcoreapp2.2\MAPatients.dll
+C:\Users\Alyas\source\repos\MAPatients\MAPatients\obj\Debug\netcoreapp2.2\MAPatients.csprojAssemblyReference.cache
+C:\Users\Alyas\source\repos\MAPatients\MAPatients\obj\Debug\netcoreapp2.2\MAPatients.csproj.CoreCompileInputs.cache
+C:\Users\Alyas\source\repos\MAPatients\MAPatients\obj\Debug\netcoreapp2.2\MAPatients.RazorAssemblyInfo.cache
+C:\Users\Alyas\source\repos\MAPatients\MAPatients\obj\Debug\netcoreapp2.2\MAPatients.RazorAssemblyInfo.cs
+C:\Users\Alyas\source\repos\MAPatients\MAPatients\obj\Debug\netcoreapp2.2\MAPatients.AssemblyInfoInputs.cache
+C:\Users\Alyas\source\repos\MAPatients\MAPatients\obj\Debug\netcoreapp2.2\MAPatients.AssemblyInfo.cs
+C:\Users\Alyas\source\repos\MAPatients\MAPatients\obj\Debug\netcoreapp2.2\MAPatients.TagHelpers.input.cache
+C:\Users\Alyas\source\repos\MAPatients\MAPatients\obj\Debug\netcoreapp2.2\MAPatients.TagHelpers.output.cache
+C:\Users\Alyas\source\repos\MAPatients\MAPatients\obj\Debug\netcoreapp2.2\MAPatients.RazorCoreGenerate.cache
+C:\Users\Alyas\source\repos\MAPatients\MAPatients\obj\Debug\netcoreapp2.2\Razor\Areas\Identity\Pages\_ViewStart.g.cshtml.cs
+C:\Users\Alyas\source\repos\MAPatients\MAPatients\obj\Debug\netcoreapp2.2\Razor\Views\Home\Index.g.cshtml.cs
+C:\Users\Alyas\source\repos\MAPatients\MAPatients\obj\Debug\netcoreapp2.2\Razor\Views\Home\Privacy.g.cshtml.cs
+C:\Users\Alyas\source\repos\MAPatients\MAPatients\obj\Debug\netcoreapp2.2\Razor\Views\Shared\Error.g.cshtml.cs
+C:\Users\Alyas\source\repos\MAPatients\MAPatients\obj\Debug\netcoreapp2.2\Razor\Views\Shared\_CookieConsentPartial.g.cshtml.cs
+C:\Users\Alyas\source\repos\MAPatients\MAPatients\obj\Debug\netcoreapp2.2\Razor\Views\Shared\_Layout.g.cshtml.cs
+C:\Users\Alyas\source\repos\MAPatients\MAPatients\obj\Debug\netcoreapp2.2\Razor\Views\Shared\_LoginPartial.g.cshtml.cs
+C:\Users\Alyas\source\repos\MAPatients\MAPatients\obj\Debug\netcoreapp2.2\Razor\Views\Shared\_ValidationScriptsPartial.g.cshtml.cs
+C:\Users\Alyas\source\repos\MAPatients\MAPatients\obj\Debug\netcoreapp2.2\Razor\Views\_ViewImports.g.cshtml.cs
+C:\Users\Alyas\source\repos\MAPatients\MAPatients\obj\Debug\netcoreapp2.2\Razor\Views\_ViewStart.g.cshtml.cs
+C:\Users\Alyas\source\repos\MAPatients\MAPatients\obj\Debug\netcoreapp2.2\MAPatients.RazorTargetAssemblyInfo.cache
+C:\Users\Alyas\source\repos\MAPatients\MAPatients\obj\Debug\netcoreapp2.2\MAPatients.RazorTargetAssemblyInfo.cs
+C:\Users\Alyas\source\repos\MAPatients\MAPatients\bin\Debug\netcoreapp2.2\MAPatients.pdb
+C:\Users\Alyas\source\repos\MAPatients\MAPatients\bin\Debug\netcoreapp2.2\MAPatients.Views.dll
+C:\Users\Alyas\source\repos\MAPatients\MAPatients\bin\Debug\netcoreapp2.2\MAPatients.Views.pdb
+C:\Users\Alyas\source\repos\MAPatients\MAPatients\obj\Debug\netcoreapp2.2\MAPatients.Views.pdb
+C:\Users\Alyas\source\repos\MAPatients\MAPatients\obj\Debug\netcoreapp2.2\MAPatients.dll
+C:\Users\Alyas\source\repos\MAPatients\MAPatients\obj\Debug\netcoreapp2.2\MAPatients.pdb
+C:\Users\Alyas\source\repos\MAPatients\MAPatients\obj\Debug\netcoreapp2.2\MAPatients.csproj.CopyComplete
+C:\Users\Alyas\source\repos\MAPatients\MAPatients\obj\Debug\netcoreapp2.2\Razor\Views\Countries\Create.g.cshtml.cs
+C:\Users\Alyas\source\repos\MAPatients\MAPatients\obj\Debug\netcoreapp2.2\Razor\Views\Countries\Delete.g.cshtml.cs
+C:\Users\Alyas\source\repos\MAPatients\MAPatients\obj\Debug\netcoreapp2.2\Razor\Views\Countries\Details.g.cshtml.cs
+C:\Users\Alyas\source\repos\MAPatients\MAPatients\obj\Debug\netcoreapp2.2\Razor\Views\Countries\Edit.g.cshtml.cs
+C:\Users\Alyas\source\repos\MAPatients\MAPatients\obj\Debug\netcoreapp2.2\Razor\Views\Countries\Index.g.cshtml.cs
+C:\Users\Alyas\source\repos\MAPatients\MAPatients\obj\Debug\netcoreapp2.2\Razor\Views\MADiagnosisCategories\Create.g.cshtml.cs
+C:\Users\Alyas\source\repos\MAPatients\MAPatients\obj\Debug\netcoreapp2.2\Razor\Views\MADiagnosisCategories\Delete.g.cshtml.cs
+C:\Users\Alyas\source\repos\MAPatients\MAPatients\obj\Debug\netcoreapp2.2\Razor\Views\MADiagnosisCategories\Details.g.cshtml.cs
+C:\Users\Alyas\source\repos\MAPatients\MAPatients\obj\Debug\netcoreapp2.2\Razor\Views\MADiagnosisCategories\Edit.g.cshtml.cs
+C:\Users\Alyas\source\repos\MAPatients\MAPatients\obj\Debug\netcoreapp2.2\Razor\Views\MADiagnosisCategories\Index.g.cshtml.cs
+D:\Course 2019\Web Tech ASP.Net\MAPatients\MAPatients\bin\Debug\netcoreapp2.2\MAPatients.deps.json
+D:\Course 2019\Web Tech ASP.Net\MAPatients\MAPatients\bin\Debug\netcoreapp2.2\MAPatients.runtimeconfig.json
+D:\Course 2019\Web Tech ASP.Net\MAPatients\MAPatients\bin\Debug\netcoreapp2.2\MAPatients.runtimeconfig.dev.json
+D:\Course 2019\Web Tech ASP.Net\MAPatients\MAPatients\bin\Debug\netcoreapp2.2\MAPatients.dll
+D:\Course 2019\Web Tech ASP.Net\MAPatients\MAPatients\bin\Debug\netcoreapp2.2\MAPatients.pdb
+D:\Course 2019\Web Tech ASP.Net\MAPatients\MAPatients\bin\Debug\netcoreapp2.2\MAPatients.Views.dll
+D:\Course 2019\Web Tech ASP.Net\MAPatients\MAPatients\bin\Debug\netcoreapp2.2\MAPatients.Views.pdb
+D:\Course 2019\Web Tech ASP.Net\MAPatients\MAPatients\obj\Debug\netcoreapp2.2\MAPatients.csprojAssemblyReference.cache
+D:\Course 2019\Web Tech ASP.Net\MAPatients\MAPatients\obj\Debug\netcoreapp2.2\MAPatients.csproj.CoreCompileInputs.cache
+D:\Course 2019\Web Tech ASP.Net\MAPatients\MAPatients\obj\Debug\netcoreapp2.2\MAPatients.RazorAssemblyInfo.cache
+D:\Course 2019\Web Tech ASP.Net\MAPatients\MAPatients\obj\Debug\netcoreapp2.2\MAPatients.RazorAssemblyInfo.cs
+D:\Course 2019\Web Tech ASP.Net\MAPatients\MAPatients\obj\Debug\netcoreapp2.2\MAPatients.AssemblyInfoInputs.cache
+D:\Course 2019\Web Tech ASP.Net\MAPatients\MAPatients\obj\Debug\netcoreapp2.2\MAPatients.AssemblyInfo.cs
+D:\Course 2019\Web Tech ASP.Net\MAPatients\MAPatients\obj\Debug\netcoreapp2.2\MAPatients.TagHelpers.input.cache
+D:\Course 2019\Web Tech ASP.Net\MAPatients\MAPatients\obj\Debug\netcoreapp2.2\MAPatients.TagHelpers.output.cache
+D:\Course 2019\Web Tech ASP.Net\MAPatients\MAPatients\obj\Debug\netcoreapp2.2\MAPatients.RazorCoreGenerate.cache
+D:\Course 2019\Web Tech ASP.Net\MAPatients\MAPatients\obj\Debug\netcoreapp2.2\Razor\Areas\Identity\Pages\_ViewStart.g.cshtml.cs
+D:\Course 2019\Web Tech ASP.Net\MAPatients\MAPatients\obj\Debug\netcoreapp2.2\Razor\Views\Home\Index.g.cshtml.cs
+D:\Course 2019\Web Tech ASP.Net\MAPatients\MAPatients\obj\Debug\netcoreapp2.2\Razor\Views\Home\Privacy.g.cshtml.cs
+D:\Course 2019\Web Tech ASP.Net\MAPatients\MAPatients\obj\Debug\netcoreapp2.2\Razor\Views\MADiagnosisCategories\Create.g.cshtml.cs
+D:\Course 2019\Web Tech ASP.Net\MAPatients\MAPatients\obj\Debug\netcoreapp2.2\Razor\Views\MADiagnosisCategories\Delete.g.cshtml.cs
+D:\Course 2019\Web Tech ASP.Net\MAPatients\MAPatients\obj\Debug\netcoreapp2.2\Razor\Views\MADiagnosisCategories\Details.g.cshtml.cs
+D:\Course 2019\Web Tech ASP.Net\MAPatients\MAPatients\obj\Debug\netcoreapp2.2\Razor\Views\MADiagnosisCategories\Edit.g.cshtml.cs
+D:\Course 2019\Web Tech ASP.Net\MAPatients\MAPatients\obj\Debug\netcoreapp2.2\Razor\Views\MADiagnosisCategories\Index.g.cshtml.cs
+D:\Course 2019\Web Tech ASP.Net\MAPatients\MAPatients\obj\Debug\netcoreapp2.2\Razor\Views\Shared\Error.g.cshtml.cs
+D:\Course 2019\Web Tech ASP.Net\MAPatients\MAPatients\obj\Debug\netcoreapp2.2\Razor\Views\Shared\_CookieConsentPartial.g.cshtml.cs
+D:\Course 2019\Web Tech ASP.Net\MAPatients\MAPatients\obj\Debug\netcoreapp2.2\Razor\Views\Shared\_Layout.g.cshtml.cs
+D:\Course 2019\Web Tech ASP.Net\MAPatients\MAPatients\obj\Debug\netcoreapp2.2\Razor\Views\Shared\_LoginPartial.g.cshtml.cs
+D:\Course 2019\Web Tech ASP.Net\MAPatients\MAPatients\obj\Debug\netcoreapp2.2\Razor\Views\Shared\_ValidationScriptsPartial.g.cshtml.cs
+D:\Course 2019\Web Tech ASP.Net\MAPatients\MAPatients\obj\Debug\netcoreapp2.2\Razor\Views\_ViewImports.g.cshtml.cs
+D:\Course 2019\Web Tech ASP.Net\MAPatients\MAPatients\obj\Debug\netcoreapp2.2\Razor\Views\_ViewStart.g.cshtml.cs
+D:\Course 2019\Web Tech ASP.Net\MAPatients\MAPatients\obj\Debug\netcoreapp2.2\MAPatients.RazorTargetAssemblyInfo.cache
+D:\Course 2019\Web Tech ASP.Net\MAPatients\MAPatients\obj\Debug\netcoreapp2.2\MAPatients.RazorTargetAssemblyInfo.cs
+D:\Course 2019\Web Tech ASP.Net\MAPatients\MAPatients\obj\Debug\netcoreapp2.2\MAPatients.Views.pdb
+D:\Course 2019\Web Tech ASP.Net\MAPatients\MAPatients\obj\Debug\netcoreapp2.2\MAPatients.dll
+D:\Course 2019\Web Tech ASP.Net\MAPatients\MAPatients\obj\Debug\netcoreapp2.2\MAPatients.pdb
+D:\Course 2019\Web Tech ASP.Net\MAPatients\MAPatients\obj\Debug\netcoreapp2.2\MAPatients.csproj.CopyComplete
+D:\Course 2019\Web Tech ASP.Net\MAPatients\MAPatients\obj\Debug\netcoreapp2.2\Razor\Views\MADispensingUnits\Create.g.cshtml.cs
+D:\Course 2019\Web Tech ASP.Net\MAPatients\MAPatients\obj\Debug\netcoreapp2.2\Razor\Views\MADispensingUnits\Delete.g.cshtml.cs
+D:\Course 2019\Web Tech ASP.Net\MAPatients\MAPatients\obj\Debug\netcoreapp2.2\Razor\Views\MADispensingUnits\Details.g.cshtml.cs
+D:\Course 2019\Web Tech ASP.Net\MAPatients\MAPatients\obj\Debug\netcoreapp2.2\Razor\Views\MADispensingUnits\Edit.g.cshtml.cs
+D:\Course 2019\Web Tech ASP.Net\MAPatients\MAPatients\obj\Debug\netcoreapp2.2\Razor\Views\MADispensingUnits\Index.g.cshtml.cs
+D:\Course 2019\Web Tech ASP.Net\MAPatients\MAPatients\obj\Debug\netcoreapp2.2\Razor\Views\MAConcentrationUnits\Create.g.cshtml.cs
+D:\Course 2019\Web Tech ASP.Net\MAPatients\MAPatients\obj\Debug\netcoreapp2.2\Razor\Views\MAConcentrationUnits\Delete.g.cshtml.cs
+D:\Course 2019\Web Tech ASP.Net\MAPatients\MAPatients\obj\Debug\netcoreapp2.2\Razor\Views\MAConcentrationUnits\Details.g.cshtml.cs
+D:\Course 2019\Web Tech ASP.Net\MAPatients\MAPatients\obj\Debug\netcoreapp2.2\Razor\Views\MAConcentrationUnits\Edit.g.cshtml.cs
+D:\Course 2019\Web Tech ASP.Net\MAPatients\MAPatients\obj\Debug\netcoreapp2.2\Razor\Views\MAConcentrationUnits\Index.g.cshtml.cs
+D:\Course 2019\Web Tech ASP.Net\MAPatients\MAPatients\obj\Debug\netcoreapp2.2\Razor\Views\MAMedicationTypes\Create.g.cshtml.cs
+D:\Course 2019\Web Tech ASP.Net\MAPatients\MAPatients\obj\Debug\netcoreapp2.2\Razor\Views\MAMedicationTypes\Delete.g.cshtml.cs
+D:\Course 2019\Web Tech ASP.Net\MAPatients\MAPatients\obj\Debug\netcoreapp2.2\Razor\Views\MAMedicationTypes\Details.g.cshtml.cs
+D:\Course 2019\Web Tech ASP.Net\MAPatients\MAPatients\obj\Debug\netcoreapp2.2\Razor\Views\MAMedicationTypes\Edit.g.cshtml.cs
+D:\Course 2019\Web Tech ASP.Net\MAPatients\MAPatients\obj\Debug\netcoreapp2.2\Razor\Views\MAMedicationTypes\Index.g.cshtml.cs
+D:\Course 2019\Web Tech ASP.Net\MAPatients\MAPatients\obj\Debug\netcoreapp2.2\Razor\Views\MACountries\Create.g.cshtml.cs
+D:\Course 2019\Web Tech ASP.Net\MAPatients\MAPatients\obj\Debug\netcoreapp2.2\Razor\Views\MACountries\Delete.g.cshtml.cs
+D:\Course 2019\Web Tech ASP.Net\MAPatients\MAPatients\obj\Debug\netcoreapp2.2\Razor\Views\MACountries\Details.g.cshtml.cs
+D:\Course 2019\Web Tech ASP.Net\MAPatients\MAPatients\obj\Debug\netcoreapp2.2\Razor\Views\MACountries\Edit.g.cshtml.cs
+D:\Course 2019\Web Tech ASP.Net\MAPatients\MAPatients\obj\Debug\netcoreapp2.2\Razor\Views\MACountries\Index.g.cshtml.cs
+C:\Users\Martin\Desktop\MAPatients\MAPatients\MAPatients\bin\Debug\netcoreapp2.2\MAPatients.deps.json
+C:\Users\Martin\Desktop\MAPatients\MAPatients\MAPatients\bin\Debug\netcoreapp2.2\MAPatients.runtimeconfig.json
+C:\Users\Martin\Desktop\MAPatients\MAPatients\MAPatients\bin\Debug\netcoreapp2.2\MAPatients.runtimeconfig.dev.json
+C:\Users\Martin\Desktop\MAPatients\MAPatients\MAPatients\bin\Debug\netcoreapp2.2\MAPatients.dll
+C:\Users\Martin\Desktop\MAPatients\MAPatients\MAPatients\bin\Debug\netcoreapp2.2\MAPatients.pdb
+C:\Users\Martin\Desktop\MAPatients\MAPatients\MAPatients\bin\Debug\netcoreapp2.2\MAPatients.Views.dll
+C:\Users\Martin\Desktop\MAPatients\MAPatients\MAPatients\bin\Debug\netcoreapp2.2\MAPatients.Views.pdb
+C:\Users\Martin\Desktop\MAPatients\MAPatients\MAPatients\obj\Debug\netcoreapp2.2\MAPatients.csprojAssemblyReference.cache
+C:\Users\Martin\Desktop\MAPatients\MAPatients\MAPatients\obj\Debug\netcoreapp2.2\MAPatients.csproj.CoreCompileInputs.cache
+C:\Users\Martin\Desktop\MAPatients\MAPatients\MAPatients\obj\Debug\netcoreapp2.2\MAPatients.RazorAssemblyInfo.cache
+C:\Users\Martin\Desktop\MAPatients\MAPatients\MAPatients\obj\Debug\netcoreapp2.2\MAPatients.RazorAssemblyInfo.cs
+C:\Users\Martin\Desktop\MAPatients\MAPatients\MAPatients\obj\Debug\netcoreapp2.2\MAPatients.AssemblyInfoInputs.cache
+C:\Users\Martin\Desktop\MAPatients\MAPatients\MAPatients\obj\Debug\netcoreapp2.2\MAPatients.AssemblyInfo.cs
+C:\Users\Martin\Desktop\MAPatients\MAPatients\MAPatients\obj\Debug\netcoreapp2.2\MAPatients.TagHelpers.input.cache
+C:\Users\Martin\Desktop\MAPatients\MAPatients\MAPatients\obj\Debug\netcoreapp2.2\MAPatients.TagHelpers.output.cache
+C:\Users\Martin\Desktop\MAPatients\MAPatients\MAPatients\obj\Debug\netcoreapp2.2\MAPatients.RazorCoreGenerate.cache
+C:\Users\Martin\Desktop\MAPatients\MAPatients\MAPatients\obj\Debug\netcoreapp2.2\Razor\Areas\Identity\Pages\_ViewStart.g.cshtml.cs
+C:\Users\Martin\Desktop\MAPatients\MAPatients\MAPatients\obj\Debug\netcoreapp2.2\Razor\Views\Home\Index.g.cshtml.cs
+C:\Users\Martin\Desktop\MAPatients\MAPatients\MAPatients\obj\Debug\netcoreapp2.2\Razor\Views\Home\Privacy.g.cshtml.cs
+C:\Users\Martin\Desktop\MAPatients\MAPatients\MAPatients\obj\Debug\netcoreapp2.2\Razor\Views\MAConcentrationUnits\Create.g.cshtml.cs
+C:\Users\Martin\Desktop\MAPatients\MAPatients\MAPatients\obj\Debug\netcoreapp2.2\Razor\Views\MAConcentrationUnits\Delete.g.cshtml.cs
+C:\Users\Martin\Desktop\MAPatients\MAPatients\MAPatients\obj\Debug\netcoreapp2.2\Razor\Views\MAConcentrationUnits\Details.g.cshtml.cs
+C:\Users\Martin\Desktop\MAPatients\MAPatients\MAPatients\obj\Debug\netcoreapp2.2\Razor\Views\MAConcentrationUnits\Edit.g.cshtml.cs
+C:\Users\Martin\Desktop\MAPatients\MAPatients\MAPatients\obj\Debug\netcoreapp2.2\Razor\Views\MAConcentrationUnits\Index.g.cshtml.cs
+C:\Users\Martin\Desktop\MAPatients\MAPatients\MAPatients\obj\Debug\netcoreapp2.2\Razor\Views\MACountries\Create.g.cshtml.cs
+C:\Users\Martin\Desktop\MAPatients\MAPatients\MAPatients\obj\Debug\netcoreapp2.2\Razor\Views\MACountries\Delete.g.cshtml.cs
+C:\Users\Martin\Desktop\MAPatients\MAPatients\MAPatients\obj\Debug\netcoreapp2.2\Razor\Views\MACountries\Details.g.cshtml.cs
+C:\Users\Martin\Desktop\MAPatients\MAPatients\MAPatients\obj\Debug\netcoreapp2.2\Razor\Views\MACountries\Edit.g.cshtml.cs
+C:\Users\Martin\Desktop\MAPatients\MAPatients\MAPatients\obj\Debug\netcoreapp2.2\Razor\Views\MACountries\Index.g.cshtml.cs
+C:\Users\Martin\Desktop\MAPatients\MAPatients\MAPatients\obj\Debug\netcoreapp2.2\Razor\Views\MADiagnosisCategories\Create.g.cshtml.cs
+C:\Users\Martin\Desktop\MAPatients\MAPatients\MAPatients\obj\Debug\netcoreapp2.2\Razor\Views\MADiagnosisCategories\Delete.g.cshtml.cs
+C:\Users\Martin\Desktop\MAPatients\MAPatients\MAPatients\obj\Debug\netcoreapp2.2\Razor\Views\MADiagnosisCategories\Details.g.cshtml.cs
+C:\Users\Martin\Desktop\MAPatients\MAPatients\MAPatients\obj\Debug\netcoreapp2.2\Razor\Views\MADiagnosisCategories\Edit.g.cshtml.cs
+C:\Users\Martin\Desktop\MAPatients\MAPatients\MAPatients\obj\Debug\netcoreapp2.2\Razor\Views\MADiagnosisCategories\Index.g.cshtml.cs
+C:\Users\Martin\Desktop\MAPatients\MAPatients\MAPatients\obj\Debug\netcoreapp2.2\Razor\Views\MADispensingUnits\Create.g.cshtml.cs
+C:\Users\Martin\Desktop\MAPatients\MAPatients\MAPatients\obj\Debug\netcoreapp2.2\Razor\Views\MADispensingUnits\Delete.g.cshtml.cs
+C:\Users\Martin\Desktop\MAPatients\MAPatients\MAPatients\obj\Debug\netcoreapp2.2\Razor\Views\MADispensingUnits\Details.g.cshtml.cs
+C:\Users\Martin\Desktop\MAPatients\MAPatients\MAPatients\obj\Debug\netcoreapp2.2\Razor\Views\MADispensingUnits\Edit.g.cshtml.cs
+C:\Users\Martin\Desktop\MAPatients\MAPatients\MAPatients\obj\Debug\netcoreapp2.2\Razor\Views\MADispensingUnits\Index.g.cshtml.cs
+C:\Users\Martin\Desktop\MAPatients\MAPatients\MAPatients\obj\Debug\netcoreapp2.2\Razor\Views\MAMedicationTypes\Create.g.cshtml.cs
+C:\Users\Martin\Desktop\MAPatients\MAPatients\MAPatients\obj\Debug\netcoreapp2.2\Razor\Views\MAMedicationTypes\Delete.g.cshtml.cs
+C:\Users\Martin\Desktop\MAPatients\MAPatients\MAPatients\obj\Debug\netcoreapp2.2\Razor\Views\MAMedicationTypes\Details.g.cshtml.cs
+C:\Users\Martin\Desktop\MAPatients\MAPatients\MAPatients\obj\Debug\netcoreapp2.2\Razor\Views\MAMedicationTypes\Edit.g.cshtml.cs
+C:\Users\Martin\Desktop\MAPatients\MAPatients\MAPatients\obj\Debug\netcoreapp2.2\Razor\Views\MAMedicationTypes\Index.g.cshtml.cs
+C:\Users\Martin\Desktop\MAPatients\MAPatients\MAPatients\obj\Debug\netcoreapp2.2\Razor\Views\Shared\Error.g.cshtml.cs
+C:\Users\Martin\Desktop\MAPatients\MAPatients\MAPatients\obj\Debug\netcoreapp2.2\Razor\Views\Shared\_CookieConsentPartial.g.cshtml.cs
+C:\Users\Martin\Desktop\MAPatients\MAPatients\MAPatients\obj\Debug\netcoreapp2.2\Razor\Views\Shared\_Layout.g.cshtml.cs
+C:\Users\Martin\Desktop\MAPatients\MAPatients\MAPatients\obj\Debug\netcoreapp2.2\Razor\Views\Shared\_LoginPartial.g.cshtml.cs
+C:\Users\Martin\Desktop\MAPatients\MAPatients\MAPatients\obj\Debug\netcoreapp2.2\Razor\Views\Shared\_ValidationScriptsPartial.g.cshtml.cs
+C:\Users\Martin\Desktop\MAPatients\MAPatients\MAPatients\obj\Debug\netcoreapp2.2\Razor\Views\_ViewImports.g.cshtml.cs
+C:\Users\Martin\Desktop\MAPatients\MAPatients\MAPatients\obj\Debug\netcoreapp2.2\Razor\Views\_ViewStart.g.cshtml.cs
+C:\Users\Martin\Desktop\MAPatients\MAPatients\MAPatients\obj\Debug\netcoreapp2.2\MAPatients.RazorTargetAssemblyInfo.cache
+C:\Users\Martin\Desktop\MAPatients\MAPatients\MAPatients\obj\Debug\netcoreapp2.2\MAPatients.RazorTargetAssemblyInfo.cs
+C:\Users\Martin\Desktop\MAPatients\MAPatients\MAPatients\obj\Debug\netcoreapp2.2\MAPatients.Views.pdb
+C:\Users\Martin\Desktop\MAPatients\MAPatients\MAPatients\obj\Debug\netcoreapp2.2\MAPatients.dll
+C:\Users\Martin\Desktop\MAPatients\MAPatients\MAPatients\obj\Debug\netcoreapp2.2\MAPatients.pdb
+C:\Users\Martin\Desktop\MAPatients\MAPatients\MAPatients\obj\Debug\netcoreapp2.2\MAPatients.csproj.CopyComplete
+C:\Users\Martin\Desktop\webassignment\MAPatients\MAPatients\MAPatients\MAPatients\bin\Debug\netcoreapp2.2\MAPatients.deps.json
+C:\Users\Martin\Desktop\webassignment\MAPatients\MAPatients\MAPatients\MAPatients\bin\Debug\netcoreapp2.2\MAPatients.runtimeconfig.json
+C:\Users\Martin\Desktop\webassignment\MAPatients\MAPatients\MAPatients\MAPatients\bin\Debug\netcoreapp2.2\MAPatients.runtimeconfig.dev.json
+C:\Users\Martin\Desktop\webassignment\MAPatients\MAPatients\MAPatients\MAPatients\bin\Debug\netcoreapp2.2\MAPatients.dll
+C:\Users\Martin\Desktop\webassignment\MAPatients\MAPatients\MAPatients\MAPatients\bin\Debug\netcoreapp2.2\MAPatients.pdb
+C:\Users\Martin\Desktop\webassignment\MAPatients\MAPatients\MAPatients\MAPatients\bin\Debug\netcoreapp2.2\MAPatients.Views.dll
+C:\Users\Martin\Desktop\webassignment\MAPatients\MAPatients\MAPatients\MAPatients\bin\Debug\netcoreapp2.2\MAPatients.Views.pdb
+C:\Users\Martin\Desktop\webassignment\MAPatients\MAPatients\MAPatients\MAPatients\obj\Debug\netcoreapp2.2\MAPatients.csprojAssemblyReference.cache
+C:\Users\Martin\Desktop\webassignment\MAPatients\MAPatients\MAPatients\MAPatients\obj\Debug\netcoreapp2.2\MAPatients.csproj.CoreCompileInputs.cache
+C:\Users\Martin\Desktop\webassignment\MAPatients\MAPatients\MAPatients\MAPatients\obj\Debug\netcoreapp2.2\MAPatients.RazorAssemblyInfo.cache
+C:\Users\Martin\Desktop\webassignment\MAPatients\MAPatients\MAPatients\MAPatients\obj\Debug\netcoreapp2.2\MAPatients.RazorAssemblyInfo.cs
+C:\Users\Martin\Desktop\webassignment\MAPatients\MAPatients\MAPatients\MAPatients\obj\Debug\netcoreapp2.2\MAPatients.AssemblyInfoInputs.cache
+C:\Users\Martin\Desktop\webassignment\MAPatients\MAPatients\MAPatients\MAPatients\obj\Debug\netcoreapp2.2\MAPatients.AssemblyInfo.cs
+C:\Users\Martin\Desktop\webassignment\MAPatients\MAPatients\MAPatients\MAPatients\obj\Debug\netcoreapp2.2\MAPatients.TagHelpers.input.cache
+C:\Users\Martin\Desktop\webassignment\MAPatients\MAPatients\MAPatients\MAPatients\obj\Debug\netcoreapp2.2\MAPatients.TagHelpers.output.cache
+C:\Users\Martin\Desktop\webassignment\MAPatients\MAPatients\MAPatients\MAPatients\obj\Debug\netcoreapp2.2\MAPatients.RazorCoreGenerate.cache
+C:\Users\Martin\Desktop\webassignment\MAPatients\MAPatients\MAPatients\MAPatients\obj\Debug\netcoreapp2.2\Razor\Areas\Identity\Pages\_ViewStart.g.cshtml.cs
+C:\Users\Martin\Desktop\webassignment\MAPatients\MAPatients\MAPatients\MAPatients\obj\Debug\netcoreapp2.2\Razor\Views\Home\Index.g.cshtml.cs
+C:\Users\Martin\Desktop\webassignment\MAPatients\MAPatients\MAPatients\MAPatients\obj\Debug\netcoreapp2.2\Razor\Views\Home\Privacy.g.cshtml.cs
+C:\Users\Martin\Desktop\webassignment\MAPatients\MAPatients\MAPatients\MAPatients\obj\Debug\netcoreapp2.2\Razor\Views\MAConcentrationUnits\Create.g.cshtml.cs
+C:\Users\Martin\Desktop\webassignment\MAPatients\MAPatients\MAPatients\MAPatients\obj\Debug\netcoreapp2.2\Razor\Views\MAConcentrationUnits\Delete.g.cshtml.cs
+C:\Users\Martin\Desktop\webassignment\MAPatients\MAPatients\MAPatients\MAPatients\obj\Debug\netcoreapp2.2\Razor\Views\MAConcentrationUnits\Details.g.cshtml.cs
+C:\Users\Martin\Desktop\webassignment\MAPatients\MAPatients\MAPatients\MAPatients\obj\Debug\netcoreapp2.2\Razor\Views\MAConcentrationUnits\Edit.g.cshtml.cs
+C:\Users\Martin\Desktop\webassignment\MAPatients\MAPatients\MAPatients\MAPatients\obj\Debug\netcoreapp2.2\Razor\Views\MAConcentrationUnits\Index.g.cshtml.cs
+C:\Users\Martin\Desktop\webassignment\MAPatients\MAPatients\MAPatients\MAPatients\obj\Debug\netcoreapp2.2\Razor\Views\MACountries\Create.g.cshtml.cs
+C:\Users\Martin\Desktop\webassignment\MAPatients\MAPatients\MAPatients\MAPatients\obj\Debug\netcoreapp2.2\Razor\Views\MACountries\Delete.g.cshtml.cs
+C:\Users\Martin\Desktop\webassignment\MAPatients\MAPatients\MAPatients\MAPatients\obj\Debug\netcoreapp2.2\Razor\Views\MACountries\Details.g.cshtml.cs
+C:\Users\Martin\Desktop\webassignment\MAPatients\MAPatients\MAPatients\MAPatients\obj\Debug\netcoreapp2.2\Razor\Views\MACountries\Edit.g.cshtml.cs
+C:\Users\Martin\Desktop\webassignment\MAPatients\MAPatients\MAPatients\MAPatients\obj\Debug\netcoreapp2.2\Razor\Views\MACountries\Index.g.cshtml.cs
+C:\Users\Martin\Desktop\webassignment\MAPatients\MAPatients\MAPatients\MAPatients\obj\Debug\netcoreapp2.2\Razor\Views\MADiagnosisCategories\Create.g.cshtml.cs
+C:\Users\Martin\Desktop\webassignment\MAPatients\MAPatients\MAPatients\MAPatients\obj\Debug\netcoreapp2.2\Razor\Views\MADiagnosisCategories\Delete.g.cshtml.cs
+C:\Users\Martin\Desktop\webassignment\MAPatients\MAPatients\MAPatients\MAPatients\obj\Debug\netcoreapp2.2\Razor\Views\MADiagnosisCategories\Details.g.cshtml.cs
+C:\Users\Martin\Desktop\webassignment\MAPatients\MAPatients\MAPatients\MAPatients\obj\Debug\netcoreapp2.2\Razor\Views\MADiagnosisCategories\Edit.g.cshtml.cs
+C:\Users\Martin\Desktop\webassignment\MAPatients\MAPatients\MAPatients\MAPatients\obj\Debug\netcoreapp2.2\Razor\Views\MADiagnosisCategories\Index.g.cshtml.cs
+C:\Users\Martin\Desktop\webassignment\MAPatients\MAPatients\MAPatients\MAPatients\obj\Debug\netcoreapp2.2\Razor\Views\MADispensingUnits\Create.g.cshtml.cs
+C:\Users\Martin\Desktop\webassignment\MAPatients\MAPatients\MAPatients\MAPatients\obj\Debug\netcoreapp2.2\Razor\Views\MADispensingUnits\Delete.g.cshtml.cs
+C:\Users\Martin\Desktop\webassignment\MAPatients\MAPatients\MAPatients\MAPatients\obj\Debug\netcoreapp2.2\Razor\Views\MADispensingUnits\Details.g.cshtml.cs
+C:\Users\Martin\Desktop\webassignment\MAPatients\MAPatients\MAPatients\MAPatients\obj\Debug\netcoreapp2.2\Razor\Views\MADispensingUnits\Edit.g.cshtml.cs
+C:\Users\Martin\Desktop\webassignment\MAPatients\MAPatients\MAPatients\MAPatients\obj\Debug\netcoreapp2.2\Razor\Views\MADispensingUnits\Index.g.cshtml.cs
+C:\Users\Martin\Desktop\webassignment\MAPatients\MAPatients\MAPatients\MAPatients\obj\Debug\netcoreapp2.2\Razor\Views\MAMedicationTypes\Create.g.cshtml.cs
+C:\Users\Martin\Desktop\webassignment\MAPatients\MAPatients\MAPatients\MAPatients\obj\Debug\netcoreapp2.2\Razor\Views\MAMedicationTypes\Delete.g.cshtml.cs
+C:\Users\Martin\Desktop\webassignment\MAPatients\MAPatients\MAPatients\MAPatients\obj\Debug\netcoreapp2.2\Razor\Views\MAMedicationTypes\Details.g.cshtml.cs
+C:\Users\Martin\Desktop\webassignment\MAPatients\MAPatients\MAPatients\MAPatients\obj\Debug\netcoreapp2.2\Razor\Views\MAMedicationTypes\Edit.g.cshtml.cs
+C:\Users\Martin\Desktop\webassignment\MAPatients\MAPatients\MAPatients\MAPatients\obj\Debug\netcoreapp2.2\Razor\Views\MAMedicationTypes\Index.g.cshtml.cs
+C:\Users\Martin\Desktop\webassignment\MAPatients\MAPatients\MAPatients\MAPatients\obj\Debug\netcoreapp2.2\Razor\Views\Shared\Error.g.cshtml.cs
+C:\Users\Martin\Desktop\webassignment\MAPatients\MAPatients\MAPatients\MAPatients\obj\Debug\netcoreapp2.2\Razor\Views\Shared\_CookieConsentPartial.g.cshtml.cs
+C:\Users\Martin\Desktop\webassignment\MAPatients\MAPatients\MAPatients\MAPatients\obj\Debug\netcoreapp2.2\Razor\Views\Shared\_Layout.g.cshtml.cs
+C:\Users\Martin\Desktop\webassignment\MAPatients\MAPatients\MAPatients\MAPatients\obj\Debug\netcoreapp2.2\Razor\Views\Shared\_LoginPartial.g.cshtml.cs
+C:\Users\Martin\Desktop\webassignment\MAPatients\MAPatients\MAPatients\MAPatients\obj\Debug\netcoreapp2.2\Razor\Views\Shared\_ValidationScriptsPartial.g.cshtml.cs
+C:\Users\Martin\Desktop\webassignment\MAPatients\MAPatients\MAPatients\MAPatients\obj\Debug\netcoreapp2.2\Razor\Views\_ViewImports.g.cshtml.cs
+C:\Users\Martin\Desktop\webassignment\MAPatients\MAPatients\MAPatients\MAPatients\obj\Debug\netcoreapp2.2\Razor\Views\_ViewStart.g.cshtml.cs
+C:\Users\Martin\Desktop\webassignment\MAPatients\MAPatients\MAPatients\MAPatients\obj\Debug\netcoreapp2.2\MAPatients.RazorTargetAssemblyInfo.cache
+C:\Users\Martin\Desktop\webassignment\MAPatients\MAPatients\MAPatients\MAPatients\obj\Debug\netcoreapp2.2\MAPatients.RazorTargetAssemblyInfo.cs
+C:\Users\Martin\Desktop\webassignment\MAPatients\MAPatients\MAPatients\MAPatients\obj\Debug\netcoreapp2.2\MAPatients.Views.pdb
+C:\Users\Martin\Desktop\webassignment\MAPatients\MAPatients\MAPatients\MAPatients\obj\Debug\netcoreapp2.2\MAPatients.dll
+C:\Users\Martin\Desktop\webassignment\MAPatients\MAPatients\MAPatients\MAPatients\obj\Debug\netcoreapp2.2\MAPatients.pdb
+C:\Users\Martin\Desktop\webassignment\MAPatients\MAPatients\MAPatients\MAPatients\obj\Debug\netcoreapp2.2\MAPatients.csproj.CopyComplete
+C:\Users\Martin\Desktop\webassignment\MAPatients\MAPatients\MAPatients\MAPatients\obj\Debug\netcoreapp2.2\Razor\Views\MAMedication\Create.g.cshtml.cs
+C:\Users\Martin\Desktop\webassignment\MAPatients\MAPatients\MAPatients\MAPatients\obj\Debug\netcoreapp2.2\Razor\Views\MAMedication\Delete.g.cshtml.cs
+C:\Users\Martin\Desktop\webassignment\MAPatients\MAPatients\MAPatients\MAPatients\obj\Debug\netcoreapp2.2\Razor\Views\MAMedication\Details.g.cshtml.cs
+C:\Users\Martin\Desktop\webassignment\MAPatients\MAPatients\MAPatients\MAPatients\obj\Debug\netcoreapp2.2\Razor\Views\MAMedication\Edit.g.cshtml.cs
+C:\Users\Martin\Desktop\webassignment\MAPatients\MAPatients\MAPatients\MAPatients\obj\Debug\netcoreapp2.2\Razor\Views\MAMedication\Index.g.cshtml.cs
+C:\Users\Martin\Desktop\MartinAl Ksho\MAPatients\MAPatients\MAPatients\MAPatients\bin\Debug\netcoreapp2.2\MAPatients.deps.json
+C:\Users\Martin\Desktop\MartinAl Ksho\MAPatients\MAPatients\MAPatients\MAPatients\bin\Debug\netcoreapp2.2\MAPatients.runtimeconfig.json
+C:\Users\Martin\Desktop\MartinAl Ksho\MAPatients\MAPatients\MAPatients\MAPatients\bin\Debug\netcoreapp2.2\MAPatients.runtimeconfig.dev.json
+C:\Users\Martin\Desktop\MartinAl Ksho\MAPatients\MAPatients\MAPatients\MAPatients\bin\Debug\netcoreapp2.2\MAPatients.dll
+C:\Users\Martin\Desktop\MartinAl Ksho\MAPatients\MAPatients\MAPatients\MAPatients\bin\Debug\netcoreapp2.2\MAPatients.pdb
+C:\Users\Martin\Desktop\MartinAl Ksho\MAPatients\MAPatients\MAPatients\MAPatients\bin\Debug\netcoreapp2.2\MAPatients.Views.dll
+C:\Users\Martin\Desktop\MartinAl Ksho\MAPatients\MAPatients\MAPatients\MAPatients\bin\Debug\netcoreapp2.2\MAPatients.Views.pdb
+C:\Users\Martin\Desktop\MartinAl Ksho\MAPatients\MAPatients\MAPatients\MAPatients\obj\Debug\netcoreapp2.2\MAPatients.csprojAssemblyReference.cache
+C:\Users\Martin\Desktop\MartinAl Ksho\MAPatients\MAPatients\MAPatients\MAPatients\obj\Debug\netcoreapp2.2\MAPatients.csproj.CoreCompileInputs.cache
+C:\Users\Martin\Desktop\MartinAl Ksho\MAPatients\MAPatients\MAPatients\MAPatients\obj\Debug\netcoreapp2.2\MAPatients.RazorAssemblyInfo.cache
+C:\Users\Martin\Desktop\MartinAl Ksho\MAPatients\MAPatients\MAPatients\MAPatients\obj\Debug\netcoreapp2.2\MAPatients.RazorAssemblyInfo.cs
+C:\Users\Martin\Desktop\MartinAl Ksho\MAPatients\MAPatients\MAPatients\MAPatients\obj\Debug\netcoreapp2.2\MAPatients.AssemblyInfoInputs.cache
+C:\Users\Martin\Desktop\MartinAl Ksho\MAPatients\MAPatients\MAPatients\MAPatients\obj\Debug\netcoreapp2.2\MAPatients.AssemblyInfo.cs
+C:\Users\Martin\Desktop\MartinAl Ksho\MAPatients\MAPatients\MAPatients\MAPatients\obj\Debug\netcoreapp2.2\MAPatients.TagHelpers.input.cache
+C:\Users\Martin\Desktop\MartinAl Ksho\MAPatients\MAPatients\MAPatients\MAPatients\obj\Debug\netcoreapp2.2\MAPatients.TagHelpers.output.cache
+C:\Users\Martin\Desktop\MartinAl Ksho\MAPatients\MAPatients\MAPatients\MAPatients\obj\Debug\netcoreapp2.2\MAPatients.RazorCoreGenerate.cache
+C:\Users\Martin\Desktop\MartinAl Ksho\MAPatients\MAPatients\MAPatients\MAPatients\obj\Debug\netcoreapp2.2\Razor\Areas\Identity\Pages\_ViewStart.g.cshtml.cs
+C:\Users\Martin\Desktop\MartinAl Ksho\MAPatients\MAPatients\MAPatients\MAPatients\obj\Debug\netcoreapp2.2\Razor\Views\Home\Index.g.cshtml.cs
+C:\Users\Martin\Desktop\MartinAl Ksho\MAPatients\MAPatients\MAPatients\MAPatients\obj\Debug\netcoreapp2.2\Razor\Views\Home\Privacy.g.cshtml.cs
+C:\Users\Martin\Desktop\MartinAl Ksho\MAPatients\MAPatients\MAPatients\MAPatients\obj\Debug\netcoreapp2.2\Razor\Views\MAConcentrationUnits\Create.g.cshtml.cs
+C:\Users\Martin\Desktop\MartinAl Ksho\MAPatients\MAPatients\MAPatients\MAPatients\obj\Debug\netcoreapp2.2\Razor\Views\MAConcentrationUnits\Delete.g.cshtml.cs
+C:\Users\Martin\Desktop\MartinAl Ksho\MAPatients\MAPatients\MAPatients\MAPatients\obj\Debug\netcoreapp2.2\Razor\Views\MAConcentrationUnits\Details.g.cshtml.cs
+C:\Users\Martin\Desktop\MartinAl Ksho\MAPatients\MAPatients\MAPatients\MAPatients\obj\Debug\netcoreapp2.2\Razor\Views\MAConcentrationUnits\Edit.g.cshtml.cs
+C:\Users\Martin\Desktop\MartinAl Ksho\MAPatients\MAPatients\MAPatients\MAPatients\obj\Debug\netcoreapp2.2\Razor\Views\MAConcentrationUnits\Index.g.cshtml.cs
+C:\Users\Martin\Desktop\MartinAl Ksho\MAPatients\MAPatients\MAPatients\MAPatients\obj\Debug\netcoreapp2.2\Razor\Views\MACountries\Create.g.cshtml.cs
+C:\Users\Martin\Desktop\MartinAl Ksho\MAPatients\MAPatients\MAPatients\MAPatients\obj\Debug\netcoreapp2.2\Razor\Views\MACountries\Delete.g.cshtml.cs
+C:\Users\Martin\Desktop\MartinAl Ksho\MAPatients\MAPatients\MAPatients\MAPatients\obj\Debug\netcoreapp2.2\Razor\Views\MACountries\Details.g.cshtml.cs
+C:\Users\Martin\Desktop\MartinAl Ksho\MAPatients\MAPatients\MAPatients\MAPatients\obj\Debug\netcoreapp2.2\Razor\Views\MACountries\Edit.g.cshtml.cs
+C:\Users\Martin\Desktop\MartinAl Ksho\MAPatients\MAPatients\MAPatients\MAPatients\obj\Debug\netcoreapp2.2\Razor\Views\MACountries\Index.g.cshtml.cs
+C:\Users\Martin\Desktop\MartinAl Ksho\MAPatients\MAPatients\MAPatients\MAPatients\obj\Debug\netcoreapp2.2\Razor\Views\MADiagnosisCategories\Create.g.cshtml.cs
+C:\Users\Martin\Desktop\MartinAl Ksho\MAPatients\MAPatients\MAPatients\MAPatients\obj\Debug\netcoreapp2.2\Razor\Views\MADiagnosisCategories\Delete.g.cshtml.cs
+C:\Users\Martin\Desktop\MartinAl Ksho\MAPatients\MAPatients\MAPatients\MAPatients\obj\Debug\netcoreapp2.2\Razor\Views\MADiagnosisCategories\Details.g.cshtml.cs
+C:\Users\Martin\Desktop\MartinAl Ksho\MAPatients\MAPatients\MAPatients\MAPatients\obj\Debug\netcoreapp2.2\Razor\Views\MADiagnosisCategories\Edit.g.cshtml.cs
+C:\Users\Martin\Desktop\MartinAl Ksho\MAPatients\MAPatients\MAPatients\MAPatients\obj\Debug\netcoreapp2.2\Razor\Views\MADiagnosisCategories\Index.g.cshtml.cs
+C:\Users\Martin\Desktop\MartinAl Ksho\MAPatients\MAPatients\MAPatients\MAPatients\obj\Debug\netcoreapp2.2\Razor\Views\MADispensingUnits\Create.g.cshtml.cs
+C:\Users\Martin\Desktop\MartinAl Ksho\MAPatients\MAPatients\MAPatients\MAPatients\obj\Debug\netcoreapp2.2\Razor\Views\MADispensingUnits\Delete.g.cshtml.cs
+C:\Users\Martin\Desktop\MartinAl Ksho\MAPatients\MAPatients\MAPatients\MAPatients\obj\Debug\netcoreapp2.2\Razor\Views\MADispensingUnits\Details.g.cshtml.cs
+C:\Users\Martin\Desktop\MartinAl Ksho\MAPatients\MAPatients\MAPatients\MAPatients\obj\Debug\netcoreapp2.2\Razor\Views\MADispensingUnits\Edit.g.cshtml.cs
+C:\Users\Martin\Desktop\MartinAl Ksho\MAPatients\MAPatients\MAPatients\MAPatients\obj\Debug\netcoreapp2.2\Razor\Views\MADispensingUnits\Index.g.cshtml.cs
+C:\Users\Martin\Desktop\MartinAl Ksho\MAPatients\MAPatients\MAPatients\MAPatients\obj\Debug\netcoreapp2.2\Razor\Views\MAMedicationTypes\Create.g.cshtml.cs
+C:\Users\Martin\Desktop\MartinAl Ksho\MAPatients\MAPatients\MAPatients\MAPatients\obj\Debug\netcoreapp2.2\Razor\Views\MAMedicationTypes\Delete.g.cshtml.cs
+C:\Users\Martin\Desktop\MartinAl Ksho\MAPatients\MAPatients\MAPatients\MAPatients\obj\Debug\netcoreapp2.2\Razor\Views\MAMedicationTypes\Details.g.cshtml.cs
+C:\Users\Martin\Desktop\MartinAl Ksho\MAPatients\MAPatients\MAPatients\MAPatients\obj\Debug\netcoreapp2.2\Razor\Views\MAMedicationTypes\Edit.g.cshtml.cs
+C:\Users\Martin\Desktop\MartinAl Ksho\MAPatients\MAPatients\MAPatients\MAPatients\obj\Debug\netcoreapp2.2\Razor\Views\MAMedicationTypes\Index.g.cshtml.cs
+C:\Users\Martin\Desktop\MartinAl Ksho\MAPatients\MAPatients\MAPatients\MAPatients\obj\Debug\netcoreapp2.2\Razor\Views\MAMedication\Create.g.cshtml.cs
+C:\Users\Martin\Desktop\MartinAl Ksho\MAPatients\MAPatients\MAPatients\MAPatients\obj\Debug\netcoreapp2.2\Razor\Views\MAMedication\Delete.g.cshtml.cs
+C:\Users\Martin\Desktop\MartinAl Ksho\MAPatients\MAPatients\MAPatients\MAPatients\obj\Debug\netcoreapp2.2\Razor\Views\MAMedication\Details.g.cshtml.cs
+C:\Users\Martin\Desktop\MartinAl Ksho\MAPatients\MAPatients\MAPatients\MAPatients\obj\Debug\netcoreapp2.2\Razor\Views\MAMedication\Edit.g.cshtml.cs
+C:\Users\Martin\Desktop\MartinAl Ksho\MAPatients\MAPatients\MAPatients\MAPatients\obj\Debug\netcoreapp2.2\Razor\Views\MAMedication\Index.g.cshtml.cs
+C:\Users\Martin\Desktop\MartinAl Ksho\MAPatients\MAPatients\MAPatients\MAPatients\obj\Debug\netcoreapp2.2\Razor\Views\Shared\Error.g.cshtml.cs
+C:\Users\Martin\Desktop\MartinAl Ksho\MAPatients\MAPatients\MAPatients\MAPatients\obj\Debug\netcoreapp2.2\Razor\Views\Shared\_CookieConsentPartial.g.cshtml.cs
+C:\Users\Martin\Desktop\MartinAl Ksho\MAPatients\MAPatients\MAPatients\MAPatients\obj\Debug\netcoreapp2.2\Razor\Views\Shared\_Layout.g.cshtml.cs
+C:\Users\Martin\Desktop\MartinAl Ksho\MAPatients\MAPatients\MAPatients\MAPatients\obj\Debug\netcoreapp2.2\Razor\Views\Shared\_LoginPartial.g.cshtml.cs
+C:\Users\Martin\Desktop\MartinAl Ksho\MAPatients\MAPatients\MAPatients\MAPatients\obj\Debug\netcoreapp2.2\Razor\Views\Shared\_ValidationScriptsPartial.g.cshtml.cs
+C:\Users\Martin\Desktop\MartinAl Ksho\MAPatients\MAPatients\MAPatients\MAPatients\obj\Debug\netcoreapp2.2\Razor\Views\_ViewImports.g.cshtml.cs
+C:\Users\Martin\Desktop\MartinAl Ksho\MAPatients\MAPatients\MAPatients\MAPatients\obj\Debug\netcoreapp2.2\Razor\Views\_ViewStart.g.cshtml.cs
+C:\Users\Martin\Desktop\MartinAl Ksho\MAPatients\MAPatients\MAPatients\MAPatients\obj\Debug\netcoreapp2.2\MAPatients.RazorTargetAssemblyInfo.cache
+C:\Users\Martin\Desktop\MartinAl Ksho\MAPatients\MAPatients\MAPatients\MAPatients\obj\Debug\netcoreapp2.2\MAPatients.RazorTargetAssemblyInfo.cs
+C:\Users\Martin\Desktop\MartinAl Ksho\MAPatients\MAPatients\MAPatients\MAPatients\obj\Debug\netcoreapp2.2\MAPatients.Views.pdb
+C:\Users\Martin\Desktop\MartinAl Ksho\MAPatients\MAPatients\MAPatients\MAPatients\obj\Debug\netcoreapp2.2\MAPatients.dll
+C:\Users\Martin\Desktop\MartinAl Ksho\MAPatients\MAPatients\MAPatients\MAPatients\obj\Debug\netcoreapp2.2\MAPatients.pdb
+C:\Users\Martin\Desktop\MartinAl Ksho\MAPatients\MAPatients\MAPatients\MAPatients\obj\Debug\netcoreapp2.2\MAPatients.csproj.CopyComplete
+C:\Users\Martin\Desktop\MAPatients\MAPatients\bin\Debug\netcoreapp2.2\MAPatients.deps.json
+C:\Users\Martin\Desktop\MAPatients\MAPatients\bin\Debug\netcoreapp2.2\MAPatients.runtimeconfig.json
+C:\Users\Martin\Desktop\MAPatients\MAPatients\bin\Debug\netcoreapp2.2\MAPatients.runtimeconfig.dev.json
+C:\Users\Martin\Desktop\MAPatients\MAPatients\bin\Debug\netcoreapp2.2\MAPatients.dll
+C:\Users\Martin\Desktop\MAPatients\MAPatients\bin\Debug\netcoreapp2.2\MAPatients.pdb
+C:\Users\Martin\Desktop\MAPatients\MAPatients\bin\Debug\netcoreapp2.2\MAPatients.Views.dll
+C:\Users\Martin\Desktop\MAPatients\MAPatients\bin\Debug\netcoreapp2.2\MAPatients.Views.pdb
+C:\Users\Martin\Desktop\MAPatients\MAPatients\obj\Debug\netcoreapp2.2\MAPatients.csprojAssemblyReference.cache
+C:\Users\Martin\Desktop\MAPatients\MAPatients\obj\Debug\netcoreapp2.2\MAPatients.csproj.CoreCompileInputs.cache
+C:\Users\Martin\Desktop\MAPatients\MAPatients\obj\Debug\netcoreapp2.2\MAPatients.RazorAssemblyInfo.cache
+C:\Users\Martin\Desktop\MAPatients\MAPatients\obj\Debug\netcoreapp2.2\MAPatients.RazorAssemblyInfo.cs
+C:\Users\Martin\Desktop\MAPatients\MAPatients\obj\Debug\netcoreapp2.2\MAPatients.AssemblyInfoInputs.cache
+C:\Users\Martin\Desktop\MAPatients\MAPatients\obj\Debug\netcoreapp2.2\MAPatients.AssemblyInfo.cs
+C:\Users\Martin\Desktop\MAPatients\MAPatients\obj\Debug\netcoreapp2.2\MAPatients.TagHelpers.input.cache
+C:\Users\Martin\Desktop\MAPatients\MAPatients\obj\Debug\netcoreapp2.2\MAPatients.TagHelpers.output.cache
+C:\Users\Martin\Desktop\MAPatients\MAPatients\obj\Debug\netcoreapp2.2\MAPatients.RazorCoreGenerate.cache
+C:\Users\Martin\Desktop\MAPatients\MAPatients\obj\Debug\netcoreapp2.2\Razor\Areas\Identity\Pages\_ViewStart.g.cshtml.cs
+C:\Users\Martin\Desktop\MAPatients\MAPatients\obj\Debug\netcoreapp2.2\Razor\Views\Home\Index.g.cshtml.cs
+C:\Users\Martin\Desktop\MAPatients\MAPatients\obj\Debug\netcoreapp2.2\Razor\Views\Home\Privacy.g.cshtml.cs
+C:\Users\Martin\Desktop\MAPatients\MAPatients\obj\Debug\netcoreapp2.2\Razor\Views\MAConcentrationUnits\Create.g.cshtml.cs
+C:\Users\Martin\Desktop\MAPatients\MAPatients\obj\Debug\netcoreapp2.2\Razor\Views\MAConcentrationUnits\Delete.g.cshtml.cs
+C:\Users\Martin\Desktop\MAPatients\MAPatients\obj\Debug\netcoreapp2.2\Razor\Views\MAConcentrationUnits\Details.g.cshtml.cs
+C:\Users\Martin\Desktop\MAPatients\MAPatients\obj\Debug\netcoreapp2.2\Razor\Views\MAConcentrationUnits\Edit.g.cshtml.cs
+C:\Users\Martin\Desktop\MAPatients\MAPatients\obj\Debug\netcoreapp2.2\Razor\Views\MAConcentrationUnits\Index.g.cshtml.cs
+C:\Users\Martin\Desktop\MAPatients\MAPatients\obj\Debug\netcoreapp2.2\Razor\Views\MACountries\Create.g.cshtml.cs
+C:\Users\Martin\Desktop\MAPatients\MAPatients\obj\Debug\netcoreapp2.2\Razor\Views\MACountries\Delete.g.cshtml.cs
+C:\Users\Martin\Desktop\MAPatients\MAPatients\obj\Debug\netcoreapp2.2\Razor\Views\MACountries\Details.g.cshtml.cs
+C:\Users\Martin\Desktop\MAPatients\MAPatients\obj\Debug\netcoreapp2.2\Razor\Views\MACountries\Edit.g.cshtml.cs
+C:\Users\Martin\Desktop\MAPatients\MAPatients\obj\Debug\netcoreapp2.2\Razor\Views\MACountries\Index.g.cshtml.cs
+C:\Users\Martin\Desktop\MAPatients\MAPatients\obj\Debug\netcoreapp2.2\Razor\Views\MADiagnosisCategories\Create.g.cshtml.cs
+C:\Users\Martin\Desktop\MAPatients\MAPatients\obj\Debug\netcoreapp2.2\Razor\Views\MADiagnosisCategories\Delete.g.cshtml.cs
+C:\Users\Martin\Desktop\MAPatients\MAPatients\obj\Debug\netcoreapp2.2\Razor\Views\MADiagnosisCategories\Details.g.cshtml.cs
+C:\Users\Martin\Desktop\MAPatients\MAPatients\obj\Debug\netcoreapp2.2\Razor\Views\MADiagnosisCategories\Edit.g.cshtml.cs
+C:\Users\Martin\Desktop\MAPatients\MAPatients\obj\Debug\netcoreapp2.2\Razor\Views\MADiagnosisCategories\Index.g.cshtml.cs
+C:\Users\Martin\Desktop\MAPatients\MAPatients\obj\Debug\netcoreapp2.2\Razor\Views\MADispensingUnits\Create.g.cshtml.cs
+C:\Users\Martin\Desktop\MAPatients\MAPatients\obj\Debug\netcoreapp2.2\Razor\Views\MADispensingUnits\Delete.g.cshtml.cs
+C:\Users\Martin\Desktop\MAPatients\MAPatients\obj\Debug\netcoreapp2.2\Razor\Views\MADispensingUnits\Details.g.cshtml.cs
+C:\Users\Martin\Desktop\MAPatients\MAPatients\obj\Debug\netcoreapp2.2\Razor\Views\MADispensingUnits\Edit.g.cshtml.cs
+C:\Users\Martin\Desktop\MAPatients\MAPatients\obj\Debug\netcoreapp2.2\Razor\Views\MADispensingUnits\Index.g.cshtml.cs
+C:\Users\Martin\Desktop\MAPatients\MAPatients\obj\Debug\netcoreapp2.2\Razor\Views\MAMedicationTypes\Create.g.cshtml.cs
+C:\Users\Martin\Desktop\MAPatients\MAPatients\obj\Debug\netcoreapp2.2\Razor\Views\MAMedicationTypes\Delete.g.cshtml.cs
+C:\Users\Martin\Desktop\MAPatients\MAPatients\obj\Debug\netcoreapp2.2\Razor\Views\MAMedicationTypes\Details.g.cshtml.cs
+C:\Users\Martin\Desktop\MAPatients\MAPatients\obj\Debug\netcoreapp2.2\Razor\Views\MAMedicationTypes\Edit.g.cshtml.cs
+C:\Users\Martin\Desktop\MAPatients\MAPatients\obj\Debug\netcoreapp2.2\Razor\Views\MAMedicationTypes\Index.g.cshtml.cs
+C:\Users\Martin\Desktop\MAPatients\MAPatients\obj\Debug\netcoreapp2.2\Razor\Views\MAMedication\Create.g.cshtml.cs
+C:\Users\Martin\Desktop\MAPatients\MAPatients\obj\Debug\netcoreapp2.2\Razor\Views\MAMedication\Delete.g.cshtml.cs
+C:\Users\Martin\Desktop\MAPatients\MAPatients\obj\Debug\netcoreapp2.2\Razor\Views\MAMedication\Details.g.cshtml.cs
+C:\Users\Martin\Desktop\MAPatients\MAPatients\obj\Debug\netcoreapp2.2\Razor\Views\MAMedication\Edit.g.cshtml.cs
+C:\Users\Martin\Desktop\MAPatients\MAPatients\obj\Debug\netcoreapp2.2\Razor\Views\MAMedication\Index.g.cshtml.cs
+C:\Users\Martin\Desktop\MAPatients\MAPatients\obj\Debug\netcoreapp2.2\Razor\Views\Shared\Error.g.cshtml.cs
+C:\Users\Martin\Desktop\MAPatients\MAPatients\obj\Debug\netcoreapp2.2\Razor\Views\Shared\_CookieConsentPartial.g.cshtml.cs
+C:\Users\Martin\Desktop\MAPatients\MAPatients\obj\Debug\netcoreapp2.2\Razor\Views\Shared\_Layout.g.cshtml.cs
+C:\Users\Martin\Desktop\MAPatients\MAPatients\obj\Debug\netcoreapp2.2\Razor\Views\Shared\_LoginPartial.g.cshtml.cs
+C:\Users\Martin\Desktop\MAPatients\MAPatients\obj\Debug\netcoreapp2.2\Razor\Views\Shared\_ValidationScriptsPartial.g.cshtml.cs
+C:\Users\Martin\Desktop\MAPatients\MAPatients\obj\Debug\netcoreapp2.2\Razor\Views\_ViewImports.g.cshtml.cs
+C:\Users\Martin\Desktop\MAPatients\MAPatients\obj\Debug\netcoreapp2.2\Razor\Views\_ViewStart.g.cshtml.cs
+C:\Users\Martin\Desktop\MAPatients\MAPatients\obj\Debug\netcoreapp2.2\MAPatients.RazorTargetAssemblyInfo.cache
+C:\Users\Martin\Desktop\MAPatients\MAPatients\obj\Debug\netcoreapp2.2\MAPatients.RazorTargetAssemblyInfo.cs
+C:\Users\Martin\Desktop\MAPatients\MAPatients\obj\Debug\netcoreapp2.2\MAPatients.Views.pdb
+C:\Users\Martin\Desktop\MAPatients\MAPatients\obj\Debug\netcoreapp2.2\MAPatients.dll
+C:\Users\Martin\Desktop\MAPatients\MAPatients\obj\Debug\netcoreapp2.2\MAPatients.pdb
+C:\Users\Martin\Desktop\MAPatients\MAPatients\obj\Debug\netcoreapp2.2\MAPatients.csproj.CopyComplete
